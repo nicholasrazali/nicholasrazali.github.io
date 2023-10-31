@@ -130,7 +130,7 @@ setInterval(showTime, 500);
   var typed = new Typed(".typing", {
     strings: [
       '<i class="fas fa-graduation-cap"></i> Computer Science and Statistics Fresh Graduate',
-      '<i class="fas fa-chart-line"></i> Data Analyst',
+      '<i class="fas fa-chart-line"></i> Data Enthusiast',
     ],
     typeSpeed: 50,
     backSpeed: 40,
