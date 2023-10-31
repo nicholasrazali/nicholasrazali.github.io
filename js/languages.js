@@ -83,6 +83,17 @@ var arrLang = {
     SOURCE: "Source",
     CLICKHERE: "Click Here",
 
+    PROJECT_NAME_1: "Rice Classification",
+    PROJECT_NAME_2: "Breast Cancer Classification",
+    PROJECT_NAME_3: "Gender Classification",
+    PROJECT_NAME_4: "Mall Customer Segmentation",
+    PROJECT_NAME_5: "Image Classification",
+    PROJECT_NAME_6: "Product Package Formation",
+    PROJECT_NAME_7: "Investor Investment Process",
+    PROJECT_NAME_8: "Beer Production Prediction",
+    PROJECT_NAME_9: "Aliniers Website",
+
+
     PROJECT_DETAILS_1: "This project was undertaken as one of the challenges given by one of the professors in the Data Mining course to perform KNN and Decision Tree classification using Python and provide an analysis of the results obtained.",
     PROJECT_DETAILS_2: "This project was carried out as one of the final exam submissions. In this project, I performed breast cancer diagnosis classification using the decision tree method. The conclusion was that using a full tree in the model created can classify breast cancer diagnosis more accurately with a very high accuracy rate of 95.49%.",
     PROJECT_DETAILS_3: "This project was undertaken as one of the final exam submissions. In this project, I conducted classification based on gender, consisting of factors like hair length, forehead width, lip thickness, and others, using the C4.5 and Naïve Bayes algorithms. The final conclusion was that the C4.5 algorithm model is a better classification model compared to the Naïve Bayes algorithm for gender classification.",    
@@ -107,6 +118,14 @@ var arrLang = {
     CREDENTIAL: "Credential",
     PRESENTED: "Presented By",
 
+    CERTIFICATE_NAME_1: "Data Analysis for Finance: Investor Investment Process",
+    CERTIFICATE_NAME_2: "Machine Learning for Retail with R: Product Packaging",
+    CERTIFICATE_NAME_3: "Covid 19 Data Analysis in Indonesia",
+    CERTIFICATE_NAME_4: "Learn Basic Data Visualization",
+    CERTIFICATE_NAME_5: "Start Programming with Python",
+    CERTIFICATE_NAME_6: "Learn Machine Learning for Beginners",
+    CERTIFICATE_NAME_7: "Learn Machine Learning Development",
+    CERTIFICATE_NAME_8: "RASIO: STATISTICS OLYMPIAD",
 
     CERTIFICATE_DETAILS_1: "This certificate was obtained after completing the Data Analysis for Finance Project: Investor Investment Process available on DQLab.",
     CERTIFICATE_DETAILS_2: "This certificate was obtained after completing the Machine Learning for Retail with R: Product Packaging Project available on DQLab.",
@@ -238,6 +257,16 @@ var arrLang = {
     SOURCE: "Sumber",
     CLICKHERE: "Klik Disini",
 
+    PROJECT_NAME_1: "Klasifikasi Beras",
+    PROJECT_NAME_2: "Klasifikasi Kanker Payudara",
+    PROJECT_NAME_3: "Klasifikasi Jenis Kelamin",
+    PROJECT_NAME_4: "Segmentasi Pelanggan Mall",
+    PROJECT_NAME_5: "Klasifikasi Gambar",
+    PROJECT_NAME_6: "Pembentukan Paket Produk",
+    PROJECT_NAME_7: "Proses Investasi Investor",
+    PROJECT_NAME_8: "Prediksi Produksi Beer",
+    PROJECT_NAME_9: "Website Aliniers",
+
     PROJECT_DETAILS_1:"Proyek ini dikerjakan sebagai salah satu challange yang diberikan oleh salah satu dosen dalam mata kuliah Data Mining untuk melakukan klasifikasi KNN dan Decision Tree menggunakan Python dan memberikan analisis dari hasil yang didapatkan.",
     PROJECT_DETAILS_2:"Proyek ini dikerjakan sebagai salah satu pengumpulan ujian akhir. Pada proyek ini saya melakukan klasifikasi diagnosis pada kanker payudara dengan menggunakan metode decision tree. Hasil kesimpulan yang didapatkan adalah dengan menggunakan full tree pada model yang dibuat akan dapat melakukan klasifikasi untuk diagnosis pada kanker payudara dengan lebih tepat dengan tingkat akurasi pada model sangat tinggi yaitu sebesar 95,49% ",
     PROJECT_DETAILS_3:"Proyek ini dikerjakan sebagai salah satu pengumpulan ujian akhir. Pada proyek ini saya melakukan klasifikasi berdasarkan gender yang terdiri dari panjang rambut, lebar kening, ketebalan bibir dan lainnya dengan menggunakan algoritma C4.5 dan Naïve Bayes. Hasil Kesimpulan akhir yang didapatkan adalah model dengan algoritma C4.5 merupakan model klasifikasi yang lebih baik daripada model dengan algoritma Naïve Bayes untuk melakukan klasifikasi terhadap gender",
@@ -262,6 +291,15 @@ var arrLang = {
     VALID: "Berlaku Hingga",
     CREDENTIAL: "Kredensial",
     PRESENTED: "Disajikan Oleh",
+
+    CERTIFICATE_NAME_1:"Data Analysis for Finance: Investor Investment Process",
+    CERTIFICATE_NAME_2:"Machine Learning for Retail with R: Product Packaging",
+    CERTIFICATE_NAME_3:"Analisis Data Covid 19 di Indonesia",
+    CERTIFICATE_NAME_4:"Belajar Dasar Visualisasi Data",
+    CERTIFICATE_NAME_5:"Memulai Pemrograman Dengan Python",
+    CERTIFICATE_NAME_6:"Belajar Machine Learning Untuk Pemula",
+    CERTIFICATE_NAME_7:"Belajar Pengembangan Machine Learning",
+    CERTIFICATE_NAME_8:"RASIO: STATISTICS OLYMPIAD",
 
     CERTIFICATE_DETAILS_1:"Sertifikat ini didapatkan setelah menyelesaikan Project Data Analysis for Finance: Proses Investasi Investor yang tersedia pada DQLab.",
     CERTIFICATE_DETAILS_2:"Sertifikat ini didapatkan setelah menyelesaikan Project Machine Learning for Retail with R: Product Packaging yang tersedia pada DQLab.",

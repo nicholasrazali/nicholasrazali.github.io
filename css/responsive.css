@@ -31,7 +31,7 @@
   .navbar .navigation .cancel-btn {
     display: block;
   }
-  .certificate-section .certificate-item,
+  .certificate-section .certificate-item, .project-section .project-item, 
   .service-section .service-item {
     flex: 0 0 50%;
     max-width: 50%;
@@ -47,6 +47,9 @@
   .certificate-popup .description,
   .certificate-popup .info,
   .certificate-section .certificate-item,
+  .project-popup .description,
+  .project-popup .info,
+  .project-section .project-item,
   .service-section .service-item,
   .about-section .skills .skill-item,
   .about-section .about-info,
