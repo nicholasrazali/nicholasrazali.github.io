@@ -170,7 +170,7 @@ var arrLang = {
     THEME: "Theme Colors",
     LANGUAGES: "Language",
     ABOUTME:
-    "Allow me to introduce myself, my name is Nicholas. I am a recent graduate with a double major in Computer Science and Statistics. I am highly enthusiastic about continuously expanding my knowledge and achieving success in this field. I am always ready to face new challenges and seize opportunities for personal growth. I find great joy in applying my understanding of programming, and I look forward to collaborating with individuals who share similar interests. Please do not hesitate to reach out to me if you wish to engage in discussions, collaborate, or share ideas."  },
+    "Allow me to introduce myself, my name is Nicholas Razali. I am a recent graduate with a double major in Computer Science and Statistics. I am highly enthusiastic about continuously expanding my knowledge and achieving success in this field. I am always ready to face new challenges and seize opportunities for personal growth. I find great joy in applying my understanding of programming, and I look forward to collaborating with individuals who share similar interests. Please do not hesitate to reach out to me if you wish to engage in discussions, collaborate, or share ideas."  },
 
   //Indonesia Language
   idn: {
@@ -346,7 +346,7 @@ var arrLang = {
     THEME: "Warna Tema",
     LANGUAGES: "Bahasa",
     ABOUTME:
-      "Perkenalkan, nama saya Nicholas. Saya adalah lulusan baru dengan pendidikan ganda dalam Ilmu Komputer dan Statistik. Saya sangat bersemangat untuk terus meningkatkan pengetahuan saya dan mencapai kesuksesan di bidang ini. Saya selalu siap menghadapi tantangan baru dan memanfaatkan peluang untuk pertumbuhan pribadi. Saya merasa senang ketika dapat mengaplikasikan pemahaman saya dalam pemrograman dan berharap untuk berkolaborasi dengan orang lain yang memiliki minat serupa. Jangan ragu untuk menghubungi saya jika Anda ingin berdiskusi, berkolaborasi, atau berbagi ide."  },
+      "Perkenalkan, nama saya Nicholas Razali. Saya adalah lulusan baru dengan pendidikan ganda dalam Ilmu Komputer dan Statistik. Saya sangat bersemangat untuk terus meningkatkan pengetahuan saya dan mencapai kesuksesan di bidang ini. Saya selalu siap menghadapi tantangan baru dan memanfaatkan peluang untuk pertumbuhan pribadi. Saya merasa senang ketika dapat mengaplikasikan pemahaman saya dalam pemrograman dan berharap untuk berkolaborasi dengan orang lain yang memiliki minat serupa. Jangan ragu untuk menghubungi saya jika Anda ingin berdiskusi, berkolaborasi, atau berbagi ide."  },
 };
 
 // get/set the selected language
